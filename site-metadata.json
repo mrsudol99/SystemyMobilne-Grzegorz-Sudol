@@ -1,0 +1,38 @@
+{
+    "description": "2021",
+    "color_scheme": "light",
+    "accent_color": "yellow",
+    "header": {
+        "title": "Grzegorz Sudoł DESIGN",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Strona główna",
+                "url": "/",
+                "style": "link"
+            },
+            {
+                "label": "O mnie",
+                "url": "/about/",
+                "style": "link"
+            },
+            {
+                "label": "Portfolio",
+                "url": "/portfolio/",
+                "style": "link"
+            },
+            {
+                "label": "Kontakt",
+                "url": "/contact/",
+                "style": "link"
+            },
+            {}
+        ]
+    },
+    "footer": {
+        "content": "&copy; 2021 Grzegorz Sudoł Design",
+        "has_social": false,
+        "social_links": []
+    },
+    "title": "Systemy Mobilne "
+}
